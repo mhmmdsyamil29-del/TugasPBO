@@ -14,7 +14,7 @@
 
 ## Teknologi yang Digunakan
 
-Tugas dibuat menggunakan dua bahasa pemrograman berikut:
+Tugas dibuat menggunakan  bahasa pemrograman berikut:
 
 
 - **PHP** dengan PHP interpreter.
